@@ -1,4 +1,4 @@
-TOPIC NAME: ILLUSIONS OF PERFORMANCE Train-Test-Leakage-in-Similarity-Search-Benchmarks
+TOPIC NAME:  Illusions Of Performance Train-Test-Leakage-in-Similarity-Search-Benchmarks
 
 SUBMITTED BY:
 Diya Gupta - 2210990303
